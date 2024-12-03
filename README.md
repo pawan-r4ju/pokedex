@@ -1,5 +1,5 @@
 
-# [pokedex](https://pawan-r4ju.github.io/pokedex/)
+# [Pokedex(click here)](https://pawan-r4ju.github.io/pokedex/)
 
 Pokédex: Your Ultimate Pokémon Companion
 Welcome to Pokédex, your ultimate online resource for all things Pokémon! This comprehensive and interactive website is powered by the PokéAPI, offering you detailed information about every Pokémon from the classic Kanto region to the latest additions in the Pokémon universe.
